@@ -1,5 +1,5 @@
 <script type="text/discourse-plugin"version="0.8.30">
-  const computed = require("ember-addons/computed-decorators").default;
+  const computed = require("ember-addons/ember-computed-decorators").default;
   api.modifyClass("controller:discovery/categories", {
     @computed("model.parentCategory")
     categoryPageStyle(parentCategory) {
