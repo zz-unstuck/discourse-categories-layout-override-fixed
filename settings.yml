@@ -5,5 +5,5 @@ categories_layout:
     - categories_only
     - categories_with_featured_topics
     - categories_and_top_topics
-    - categories_boxes
-    - categories_boxes_with_topics
+    - categories_boxes_with_subcategories
+    - categories_boxes_with_featured_topics
